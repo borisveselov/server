@@ -1,0 +1,15 @@
+# Compiled class file
+*.class
+
+# Log file
+*.iml
+
+#Ignore IntelliJ folders
+/.settings
+/build
+/.classpath
+/.project
+/.idea
+/target
+/lib
+/log
